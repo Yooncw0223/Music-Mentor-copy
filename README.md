@@ -1,5 +1,7 @@
 # 61040-final-project-gqhc
 
+# NOTE: This is a local copy as the original repo (team-owned one) is not available for some reason; as this is a local copy, it may have some bugs
+
 # Testing the site locally
 
 Same as Fritter Frontend:
